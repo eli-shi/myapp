@@ -1,0 +1,189 @@
+[
+  {
+    "name": "Jason",
+    "surname": "Welch",
+    "schedule": [
+      ["Armenian A", "Comp.Sci.", "Physics", "Math", "History"],
+      ["Comp.Sci", "Physics", "History", "English B", "Free Period"],
+      ["Armenian A", "Free Period", "Comp.Sci.", "Free Period", "Free Period"],
+      ["Free Period", "Math", "English B", "Theory of Knowledge", "Free Period"],
+      ["Math", "P.E.", "Assembly Agenda", "History", "English B", "Free Period"]
+    ]
+  },
+  {
+    "name": "Isaac",
+    "surname": "Young",
+    "schedule": [
+      ["Spanish", "Economics", "Physics", "History N", "History"],
+      ["Theory of Knowledge", "Physics", "History", "P.E.", "Free Period"],
+      ["Spanish", "Free Period", "Math", "English A", "Economics"],
+      ["Math", "Free Period", "Free Period", "Economics", "English B"],
+      ["Free Period", "Free Period", "Assembly Agenda", "History", "English A"]
+    ]
+  },
+  {
+    "name": "Victor",
+    "surname": "Hill",
+    "schedule": [
+      ["Physics", "Comp.Sci.", "Free Period", "History N", "History"],
+      ["Comp.Sci", "Spanish", "History", "P.E.", "Free Period"],
+      ["Free Period", "Spanish", "Comp.Sci", "Math", "Physics"],
+      ["Physics", "Free Period", "Math", "Theory of Knowledge", "English A"],
+      ["Math", "Free Period", "Assembly Agenda", "History", "English A"]
+    ]
+  },
+  {
+    "name": "Lily",
+    "surname": "Abraham",
+    "schedule": [
+      ["Comp.Sci.", "Russian B", "Economics", "History N", "Free Period"],
+      ["Theory of Knowledge", "English B", "Economics", "Math", "Free Period"],
+      ["Comp.Sci.", "Free Period", "Geography", "English B", "Economics"],
+      ["Geography", "Russian B", "Math", "Free Period", "English B"],
+      ["Free Period", "P.E.", "Assembly Agenda", "Geography", "Free Period"]
+    ]
+  },
+  {
+    "name": "Stephen",
+    "surname": "Welch",
+    "schedule": [
+      ["Spanish", "Economics", "Physics", "History N", "Free Period"],
+      ["Theory of Knowledge", "Physics", "Free Period", "Math", "Free Period"],
+      ["Spanish", "Free Period", "Geography", "English A", "Economics"],
+      ["Geography", "Free Period", "Math", "Economics", "English A"],
+      ["Free Period", "P.E.", "Assembly Agenda", "Geography", "English A"]
+    ]
+  },
+  {
+    "name": "Virginia",
+    "surname": "Clarkson",
+    "schedule": [
+      ["Comp.Sci.", "Economics", "Physics", "English B", "History N"],
+      ["Theory of Knowledge", "Physics", "Armenian A", "Math", "Armenian A"],
+      ["Comp.Sci.", "Free Period", "Free Period", "Armenia A", "Economics"],
+      ["Free Period", "Free Period", "Math", "Armenian A", "English B"],
+      ["Free Period", "P.E.", "Assembly Agenda", "Free Period", "English B"]
+    ]
+  },
+  {
+    "name": "Samantha",
+    "surname": "Black",
+    "schedule": [
+      ["Comp.Sci.", "Economics", "Physics", "English B", "History N"],
+      ["Theory of Knowledge", "Free Period", "History", "P.E.", "Free Period"],
+      ["Comp.Sci.", "Armenian A", "Math", "History N", "Economics"],
+      ["Math", "Armenian A", "Free Period", "Economics", "English B"],
+      ["English B", "Free Period", "Assembly Agenda", "History", "Free Period"]
+    ]
+  },
+  {
+    "name": "Jacob",
+    "surname": "Quinn",
+    "schedule": [
+      ["Spanish", "Free Period", "Biology", "Economics", "Free Period"],
+      ["Biology", "Free Period", "Armenian A", "English B", "Armenian A"],
+      ["Spanish", "Theory of Knowledge", "Math", "Armenian A", "Free Period"],
+      ["Math", "Economics", "English B", "Armenian A", "Free Period"],
+      ["Economics", "P.E.", "Assembly Agenda", "History N", "English B"]
+    ]
+  },
+  {
+    "name": "Chloe",
+    "surname": "Powell",
+    "schedule": [
+      ["Armenian A", "Comp.Sci.", "Free Period", "Economics", "History"],
+      ["Comp.Sci", "English B", "History", "P.E.", "Free Period"],
+      ["Armenian A", "Theory of Knowledge", "Math", "English B", "History N"],
+      ["Math", "Economics", "Free Period", "Free Period", "English B"],
+      ["Economics", "Free Period", "Assembly Agenda", "History", "Free Period"]
+    ]
+  },
+  {
+    "name": "Owen",
+    "surname": "Ross",
+    "schedule": [
+      ["Spanish", "Free Period", "Biology", "Economics", "History N"],
+      ["Biology", "Free Period", "Armenian A", "English B", "Armenian A"],
+      ["Spanish", "Theory of Knowledge", "Math", "Armenian A", "Free Period"],
+      ["Math", "Economics", "English B", "Armenian A", "Free Period"],
+      ["Economics", "P.E.", "Assembly Agenda", "Free Period", "English B"]
+    ]
+  },
+  {
+    "name": "Sam",
+    "surname": "Butler",
+    "schedule": [
+      ["Comp.Sci.", "Economics", "Physics", "Math", "History N"],
+      ["Theory of Knowledge", "Physics", "Armenian A", "English B", "Free Period"],
+      ["Comp.Sci.", "Free Period", "Free Period", "Armenian A", "Economics"],
+      ["Free Period", "Math", "English B", "Economics", "Free Period"],
+      ["Math", "P.E.", "Assembly Agenda", "Free Period", "English B"]
+    ]
+  },
+  {
+    "name": "Michael",
+    "surname": "McLean",
+    "schedule": [
+      ["Armenian A", "Comp.Sci", "Free Period", "Economics", "History"],
+      ["Comp.Sci", "English B", "History", "P.E.", "Free Period"],
+      ["Armenian A", "Theory of Knowledge", "Math", "English B", "History N"],
+      ["Math", "Economics", "Free Period", "Free Period", "English B"],
+      ["Economics", "Free Period", "Assembly Agenda", "History", "Free Period"]
+    ]
+  },
+  {
+    "name": "Emma",
+    "surname": "Cameron",
+    "schedule": [
+      ["Armenian N", "Comp.Sci.", "Free Period", "Economics", "History"],
+      ["Comp.Sci.", "Spanish", "History", "Math", "Free Period"],
+      ["Free Period", "Spanish", "Comp.Sci.", "History N", "Free Period"],
+      ["Free Period", "Economics", "Math", "Theory of Knowledge", "English A"],
+      ["Economics", "P.E.", "Assembly Agenda", "History", "English A"]
+    ]
+  },
+  {
+    "name": "Sally",
+    "surname": "McLeod",
+    "schedule": [
+      ["Free Period", "Economics", "Physics", "English B", "History N"],
+      ["Theory of Knowledge", "Physics", "Free Period", "Math", "Free Period"],
+      ["Free Period", "Armenian A", "Geography", "Free Period", "Economics"],
+      ["Geography", "Armenian A", "Math", "Economics", "English B"],
+      ["English B", "P.E.", "Assembly Agenda", "Geography", "Free Period"]
+    ]
+  },
+  {
+    "name": "Ava",
+    "surname": "Young",
+    "schedule": [
+      ["Armenian A", "Comp.Sci.", "Free Period", "English B", "History N"],
+      ["Comp.Sci.", "Spanish", "Economics", "P.E.", "Free Period"],
+      ["Armenian A", "Spanish", "Free Period", "Math", "Economics"],
+      ["Free Period", "Free Period", "Math", "Theory of Knowledge", "English A"],
+      ["English B", "Free Period", "Assembly Agenda", "Math", "Free Period"]
+    ]
+  },
+  {
+    "name": "Jasmine",
+    "surname": "Buckland",
+    "schedule": [
+      ["Spanish", "Free Period", "Physics", "English B", "History N"],
+      ["Theory of Knowledge", "Physics", "Armenian A", "Math", "Armenian A"],
+      ["Spanish", "Free Period", "Geography", "Armenian A", "Free Period"],
+      ["Geography", "Free Period", "Math", "Armenian A", "English B"],
+      ["English B", "P.E.", "Assembly Agenda", "Geography", "Free Period"]
+    ]
+  },
+  {
+    "name": "Matt",
+    "surname": "Smith",
+    "schedule": [
+      ["Armenian A", "Comp.Sci", "Free Period", "Economics", "History"],
+      ["Math", "Economics", "Free Period", "Free Period", "English B"],
+      ["Armenian A", "Theory of Knowledge", "Math", "English B", "History N"],
+      ["Comp.Sci.", "English B", "History ", "P.E.", "Free Period"],
+      ["Economics", "Free Period", "Assembly Agenda", "History", "Free Period"]
+    ]
+  }
+]
