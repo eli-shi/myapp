@@ -51,7 +51,7 @@
         app:layout_constraintTop_toTopOf="parent"
         android:id="@+id/pic"></ImageView>/>
 
-    <TextView
+    <ListView
         android:id="@+id/schedule"
         android:layout_width="0dp"
         android:layout_height="0dp"
